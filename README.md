@@ -218,14 +218,6 @@ UniFi Switch 24 PoE (managed)
 3. **Guest WiFi complaints** - Users wanted faster speeds
    - Solution: Explained security policy, didn't budge on limits
 
-## Configuration Files
-
-See [configs/dod-contractor/](../../configs/dod-contractor/) for:
-- EdgeRouter firewall configuration
-- UniFi site export (JSON)
-- RADIUS server config (sanitized)
-- Content filter rules
-
 ## Compliance Documentation
 
 **Standards met:**
